@@ -4,7 +4,6 @@ import streamlit as st
 
 api_key = "1c4aaa597dd29ba9c44da6839c89fbf6"
 
-#App Framework
 st.title("Weather Trakker☁️")
 prompt = st.text_input("Which city do you want to know the weather of?")
 
