@@ -31,5 +31,5 @@ python weather_tracker.py
 ## Note
 Ensure you keep your API key confidential and do not share it publicly.
 
-## Author
-[Vikranth Udandarao](https://github.com/Vikranth3140)
+## License
+This project is licensed under the [MIT License](LICENSE).
